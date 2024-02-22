@@ -1,0 +1,25 @@
+_repo: Shipwrecks-on-Cape-Cod_72960
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Small, Isaac M.
+    gutenberg_agent_id: '56884'
+    url: http://www.gutenberg.org/2009/agents/56884
+description: ''
+gutenberg_issued: '2024-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72960'
+language: en
+pgterms:marc905: 20240109092323small
+pgterms:marc906: '1928'
+pgterms:marc907: US
+production_note: Steve Mattern and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aChatham, Mass. :$bThe Chatham Press Inc., $c1928, pubdate 1967.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Shipwrecks on Cape Cod
+url: http://www.gutenberg.org/ebooks/72960
